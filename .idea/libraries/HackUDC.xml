@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HackUDC">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/HackUDC_jar/HackUDC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
