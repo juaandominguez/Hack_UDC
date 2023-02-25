@@ -1,0 +1,592 @@
+ID_PLAYA,NOMBRE_PLAYA,ID_PROVINCIA,NOMBRE_PROVINCIA,ID_MUNICIPIO,NOMBRE_MUNICIPIO,LATITUD,LONGITUD,COMUNIDAD
+0301101,Raco de l'Albir,3,Alacant/Alicante,3011,Alfaz del Pi,"38??? 34' 31""","-00??? 03' 52""",Valencia
+0301401,Sant Joan / San Juan,3,Alacant/Alicante,3014,Alicante/Alacant,"38??? 22' 48""","-00??? 24' 32""",Valencia
+0301408,El Postiguet,3,Alacant/Alicante,3014,Alicante/Alacant,"38??? 20' 46""","-00??? 28' 38""",Valencia
+0301410,Saladar,3,Alacant/Alicante,3014,Alicante/Alacant,"38??? 17' 02""","-00??? 31' 08""",Valencia
+0301808,La Roda,3,Alacant/Alicante,3018,Altea,"38??? 36' 29""","-00??? 02' 16""",Valencia
+0301809,Cap Blanch,3,Alacant/Alicante,3018,Altea,"38??? 35' 36""","-00??? 03' 10""",Valencia
+0303102,Llevant / Playa de Levante,3,Alacant/Alicante,3031,Benidorm,"38??? 32' 12""","-00??? 07' 05""",Valencia
+0303104,Ponent / Playa de Poniente,3,Alacant/Alicante,3031,Benidorm,"38??? 32' 14""","-00??? 08' 55""",Valencia
+0304105,Cala Fustera,3,Alacant/Alicante,3041,Benissa,"38??? 39' 53""","0??? 05' 16""",Valencia
+0304704,La Fossa,3,Alacant/Alicante,3047,Calp,"38??? 38' 46""","0??? 04' 24""",Valencia
+0304707,Cantal Roig,3,Alacant/Alicante,3047,Calp,"38??? 37' 54""","0??? 00' 16""",Valencia
+0304709,Arenal/Bol,3,Alacant/Alicante,3047,Calp,"38??? 36' 35""","-00??? 02' 10""",Valencia
+0305013,Carrer la Mar,3,Alacant/Alicante,3050,el Campello,"38??? 25' 30""","-00??? 23' 20""",Valencia
+0306301,Les Devesses,3,Alacant/Alicante,3063,Denia,"38??? 52' 15""","-00??? 00' 26""",Valencia
+0306308,Les Boves / Les Marines,3,Alacant/Alicante,3063,Denia,"38??? 51' 29""","0??? 04' 33""",Valencia
+0306310,Marineta Cassiana,3,Alacant/Alicante,3063,Denia,"38??? 50' 04""","0??? 07' 33""",Valencia
+0306502,Arenales del Sol,3,Alacant/Alicante,3065,Elche/Elx,"38??? 14' 28""","-00??? 30' 49""",Valencia
+0306505,La Marina / Les Pesqueres - El Rebollo,3,Alacant/Alicante,3065,Elche/Elx,"38??? 08' 19""","-00??? 39' 09""",Valencia
+0306901,Finestrat / La Cala,3,Alacant/Alicante,3069,Finestrat,"38??? 31' 33""","-00??? 09' 58""",Valencia
+0307605,Centro / La Roqueta,3,Alacant/Alicante,3076,Guardamar del Segura,"38??? 04' 31""","-00??? 38' 50""",Valencia
+0308204,El Arenal,3,Alacant/Alicante,3082,Javea/Xabia,"38??? 46' 27""","0??? 11' 27""",Valencia
+0308211,La Granadella,3,Alacant/Alicante,3082,Javea/Xabia,"38??? 43' 50""","0??? 11' 52""",Valencia
+0309907,Cala Capitan,3,Alacant/Alicante,3099,Orihuela,"37??? 55' 19""","-00??? 43' 18""",Valencia
+0309908,Cala Roig,3,Alacant/Alicante,3099,Orihuela,"37??? 54' 12""","-00??? 43' 42""",Valencia
+0309911,Campoamor / Barranco Rubio,3,Alacant/Alicante,3099,Orihuela,"37??? 53' 46""","-00??? 45' 06""",Valencia
+0312103,Varador - Calas del Este,3,Alacant/Alicante,3121,Santa Pola,"38??? 11' 26""","-00??? 32' 05""",Valencia
+0312108,Tamarit,3,Alacant/Alicante,3121,Santa Pola,"38??? 11' 17""","-00??? 35' 49""",Valencia
+0312803,L'Ampolla,3,Alacant/Alicante,3128,Teulada,"38??? 41' 18""","0??? 07' 53""",Valencia
+0313302,La Mata,3,Alacant/Alicante,3133,Torrevieja,"38??? 01' 34""","-00??? 39' 08""",Valencia
+0313909,Paradis,3,Alacant/Alicante,3139,Villajoyosa/la Vila Joiosa,"38??? 29' 54""","-00??? 15' 25""",Valencia
+0390208,Port / El Puerto,3,Alacant/Alicante,3902,Pilar de la Horadada,"37??? 49' 15""","-00??? 46' 45""",Valencia
+0400308,Poniente,4,Almeria,4003,Adra,"36??? 44' 39""","-03??? 11' 06""",Andalucia
+0400309,San Nicolas,4,Almeria,4003,Adra,"36??? 44' 40""","-03??? 04' 01""",Andalucia
+0401304,San Miguel/Las Conchas/Zapillo,4,Almeria,4013,Almeria,"36??? 49' 46""","-02??? 27' 10""",Andalucia
+0401310,Retamar,4,Almeria,4013,Almeria,"36??? 50' 01""","-02??? 18' 53""",Andalucia
+0401313,San Miguel de Cabo de Gata,4,Almeria,4013,Almeria,"36??? 47' 35""","-02??? 15' 21""",Andalucia
+0402901,Berja-Balanegra,4,Almeria,4029,Berja,"36??? 44' 51""","-02??? 54' 38""",Andalucia
+0403203,El Lancon,4,Almeria,4032,Carboneras,"37??? 00' 41""","-01??? 52' 51""",Andalucia
+0403204,Los Barquicos/Los Cocones,4,Almeria,4032,Carboneras,"36??? 59' 47""","-01??? 53' 37""",Andalucia
+0403501,Pozo del Esparto,4,Almeria,4035,Cuevas del Almanzora,"37??? 20' 11""","-01??? 41' 23""",Andalucia
+0403510,Villaricos,4,Almeria,4035,Cuevas del Almanzora,"37??? 14' 51""","-01??? 46' 19""",Andalucia
+0404901,Garrucha,4,Almeria,4049,Garrucha,"37??? 10' 45""","-01??? 49' 13""",Andalucia
+0406401,Marina de la Torre,4,Almeria,4064,Mojacar,"37??? 09' 45""","-01??? 49' 21""",Andalucia
+0406403,El Descargador,4,Almeria,4064,Mojacar,"37??? 08' 31""","-01??? 49' 34""",Andalucia
+0406601,Aguamarga,4,Almeria,4066,Nijar,"36??? 56' 24""","-01??? 56' 01""",Andalucia
+0406614,San Jose,4,Almeria,4066,Nijar,"36??? 45' 37""","-02??? 06' 26""",Andalucia
+0407506,Mar Serena,4,Almeria,4075,Pulpi,"37??? 21' 30""","-01??? 40' 11""",Andalucia
+0407904,La Romanilla,4,Almeria,4079,Roquetas de Mar,"36??? 46' 14""","-02??? 36' 05""",Andalucia
+0407906,Urbanizacion Roquetas del Mar,4,Almeria,4079,Roquetas de Mar,"36??? 44' 25""","-02??? 36' 39""",Andalucia
+0410002,Puerto del Rey,4,Almeria,4100,Vera,"37??? 12' 10""","-01??? 48' 34""",Andalucia
+0490201,Balerma,4,Almeria,4902,El Ejido,"36??? 43' 20""","-02??? 52' 39""",Andalucia
+0490204,San Miguel-Poniente Almerimar,4,Almeria,4902,El Ejido,"36??? 42' 27""","-02??? 48' 53""",Andalucia
+0490205,Levante Almerimar,4,Almeria,4902,El Ejido,"36??? 41' 23""","-02??? 46' 41""",Andalucia
+0700201,Son Bou,7,Islas Baleares,7002,Alaior,"39??? 54' 10""","4??? 04' 00""",Baleares
+0700307,Alcudia,7,Islas Baleares,7003,Alcudia,"39??? 49' 50""","3??? 07' 13""",Baleares
+0700506,Sant Elm,7,Islas Baleares,7005,Andratx,"39??? 34' 45""","2??? 21' 18""",Baleares
+0700513,Camp de Mar,7,Islas Baleares,7005,Andratx,"39??? 32' 19""","2??? 25' 26""",Baleares
+0701102,Palmira,7,Islas Baleares,7011,Calvia,"39??? 32' 08""","2??? 27' 31""",Baleares
+0701103,Cala Santa Ponsa,7,Islas Baleares,7011,Calvia,"39??? 31' 03""","2??? 28' 53""",Baleares
+0701105,Magalluf,7,Islas Baleares,7011,Calvia,"39??? 30' 31""","2??? 32' 14""",Baleares
+0701303,Es Trenc,7,Islas Baleares,7013,Campos,"39??? 20' 49""","2??? 59' 03""",Baleares
+0701401,Cala Mesquida,7,Islas Baleares,7014,Capdepera,"39??? 44' 45""","3??? 26' 06""",Baleares
+0701403,Cala Agulla,7,Islas Baleares,7014,Capdepera,"39??? 43' 25""","3??? 27' 14""",Baleares
+0701406,Sa Font de Sa Cala,7,Islas Baleares,7014,Capdepera,"39??? 40' 00""","3??? 27' 12""",Baleares
+0701506,Cala Santandria,7,Islas Baleares,7015,Ciutadella de Menorca,"39??? 58' 46""","3??? 50' 25""",Baleares
+0701507,Cala Blanca,7,Islas Baleares,7015,Ciutadella de Menorca,"39??? 58' 07""","3??? 50' 11""",Baleares
+0701509,Son Xoriguer,7,Islas Baleares,7015,Ciutadella de Menorca,"39??? 55' 37""","3??? 50' 35""",Baleares
+0701906,Sa Calobra,7,Islas Baleares,7019,Escorca,"39??? 51' 08""","2??? 48' 03""",Baleares
+0702201,Cala Marcal,7,Islas Baleares,7022,Felanitx,"39??? 24' 39""","3??? 15' 34""",Baleares
+0702302,Cala Galdana,7,Islas Baleares,7023,Ferreries,"39??? 56' 19""","3??? 57' 42""",Baleares
+0702402,Playa de Llevant,7,Islas Baleares,7024,Formentera,"38??? 44' 56""","1??? 26' 24""",Baleares
+0702413,Playa de Migjorn,7,Islas Baleares,7024,Formentera,"38??? 41' 07""","1??? 28' 07""",Baleares
+0702414,Cala Saona,7,Islas Baleares,7024,Formentera,"38??? 41' 40""","1??? 23' 23""",Baleares
+0702601,Talamanca,7,Islas Baleares,7026,Eivissa,"38??? 55' 06""","1??? 27' 22""",Baleares
+0702603,Ses Figueretes,7,Islas Baleares,7026,Eivissa,"38??? 54' 19""","1??? 25' 23""",Baleares
+0703209,Es Grau,7,Islas Baleares,7032,Mahon,"39??? 57' 04""","4??? 15' 06""",Baleares
+0703211,Cala Mesquida,7,Islas Baleares,7032,Mahon,"39??? 55' 03""","4??? 17' 12""",Baleares
+0703301,S'Illot / Cala Moreira,7,Islas Baleares,7033,Manacor,"39??? 34' 01""","3??? 22' 27""",Baleares
+0703307,Cala Estany,7,Islas Baleares,7033,Manacor,"39??? 31' 04""","3??? 18' 42""",Baleares
+0703316,Es Domingos Gran,7,Islas Baleares,7033,Manacor,"39??? 27' 34""","3??? 16' 46""",Baleares
+0703706,Tirant,7,Islas Baleares,7037,Es Mercadal,"40??? 02' 06""","4??? 06' 05""",Baleares
+0703710,Arenal d'en Castell,7,Islas Baleares,7037,Es Mercadal,"40??? 01' 04""","4??? 11' 05""",Baleares
+0703901,Muro,7,Islas Baleares,7039,Muro,"39??? 47' 23""","3??? 07' 50""",Baleares
+0704001,Cala Major,7,Islas Baleares,7040,Palma,"39??? 33' 12""","2??? 36' 27""",Baleares
+0704007,Playa de Palma,7,Islas Baleares,7040,Palma,"39??? 31' 25""","2??? 44' 17""",Baleares
+0704202,Cala Barques,7,Islas Baleares,7042,Pollensa,"39??? 55' 22""","3??? 03' 25""",Baleares
+0704208,Cala Formentor,7,Islas Baleares,7042,Pollensa,"39??? 55' 45""","3??? 08' 15""",Baleares
+0704210,Pollensa / Llenaire,7,Islas Baleares,7042,Pollensa,"39??? 53' 23""","3??? 04' 46""",Baleares
+0704605,Cala Gracio,7,Islas Baleares,7046,Sant Antoni de Portmany,"38??? 59' 36""","1??? 17' 28""",Baleares
+0704608,San Antonio ,7,Islas Baleares,7046,Sant Antoni de Portmany,"38??? 58' 44""","1??? 18' 31""",Baleares
+0704806,Cala Bassa,7,Islas Baleares,7048,Sant Josep de sa Talaia,"38??? 58' 09""","1??? 14' 27""",Baleares
+0704817,Cala Vedella,7,Islas Baleares,7048,Sant Josep de sa Talaia,"38??? 54' 53""","1??? 13' 31""",Baleares
+0704821,Cala d'Hort,7,Islas Baleares,7048,Sant Josep de sa Talaia,"38??? 53' 30""","1??? 13' 30""",Baleares
+0704834,Ses Salines / Mitjon,7,Islas Baleares,7048,Sant Josep de sa Talaia,"38??? 50' 34""","1??? 23' 29""",Baleares
+0704836,En Bossa,7,Islas Baleares,7048,Sant Josep de sa Talaia,"38??? 53' 15""","1??? 26' 17""",Baleares
+0705005,Port Sant Miquel,7,Islas Baleares,7050,Sant Joan de Labritja,"39??? 04' 54""","1??? 26' 29""",Baleares
+0705016,Portinatx,7,Islas Baleares,7050,Sant Joan de Labritja,"39??? 06' 55""","1??? 31' 17""",Baleares
+0705019,Cala San Vicente,7,Islas Baleares,7050,Sant Joan de Labritja,"39??? 04' 37""","1??? 35' 37""",Baleares
+0705101,Cala Millor,7,Islas Baleares,7051,Sant Llorenc des Cardassar,"39??? 35' 47""","3??? 23' 09""",Baleares
+0705104,Sa Coma,7,Islas Baleares,7051,Sant Llorenc des Cardassar,"39??? 34' 31""","3??? 22' 41""",Baleares
+0705202,Punta Prima,7,Islas Baleares,7052,Sant Llu???s,"39??? 48' 53""","4??? 16' 54""",Baleares
+0705416,Santa Eul???ria,7,Islas Baleares,7054,Santa Eul???ria des Riu,"38??? 58' 58""","1??? 32' 33""",Baleares
+0705418,Cala Llonga,7,Islas Baleares,7054,Santa Eul???ria des Riu,"38??? 57' 13""","1??? 31' 16""",Baleares
+0705501,C'An Picafort,7,Islas Baleares,7055,Santa Margalida,"39??? 46' 14""","3??? 09' 06""",Baleares
+0705706,Cala Mondrag???,7,Islas Baleares,7057,Santany???,"39??? 21' 03""","3??? 11' 09""",Baleares
+0705707,Cala Santany???,7,Islas Baleares,7057,Santany???,"39??? 19' 53""","3??? 08' 52""",Baleares
+0705904,Colonia de Sant Jordi / Ees Dol???,7,Islas Baleares,7059,Ses Salines,"39??? 19' 03""","3??? 00' 18""",Baleares
+0706101,Puerto de S???ller,7,Islas Baleares,7061,S???ller,"39??? 47' 37""","2??? 41' 49""",Baleares
+0706202,Es Ribell,7,Islas Baleares,7062,Son Servera,"39??? 38' 12""","3??? 24' 17""",Baleares
+0790202,Sant Tomas,7,Islas Baleares,7902,Es Migjorn Gran,"39??? 54' 54""","4??? 02' 32""",Baleares
+0800601,D'Arenys,8,Barcelona,8006,Arenys de Mar,"41??? 34' 46""","2??? 33' 12""",Catalunya
+0801502,Del Centre,8,Barcelona,8015,Badalona,"41??? 27' 03""","2??? 15' 18""",Catalunya
+0801903,Del Bogatell,8,Barcelona,8019,Barcelona,"41??? 23' 48""","2??? 12' 19""",Catalunya
+0801905,La Barceloneta,8,Barcelona,8019,Barcelona,"41??? 23' 08""","2??? 12' 02""",Catalunya
+0802901,Cabrera,8,Barcelona,8029,Cabrera de Mar,"41??? 30' 30""","2??? 24' 14""",Catalunya
+0803201,La Riera - Els Tres Micos,8,Barcelona,8032,Caldes d'Estrac,"41??? 34' 01""","2??? 31' 22""",Catalunya
+0803501,Gran - Garb???,8,Barcelona,8035,Calella,"41??? 36' 53""","2??? 39' 52""",Catalunya
+0804001,Canet,8,Barcelona,8040,Canet de Mar,"41??? 35' 18""","2??? 35' 08""",Catalunya
+0805601,Castelldefels,8,Barcelona,8056,Castelldefels,"41??? 15' 59""","1??? 58' 50""",Catalunya
+0807401,Llarga,8,Barcelona,8074,Cubelles,"41??? 12' 12""","1??? 41' 05""",Catalunya
+0808901,Gav???,8,Barcelona,8089,Gav???,"41??? 16' 03""","2??? 00' 47""",Catalunya
+0811002,Malgrat,8,Barcelona,8110,Malgrat de Mar,"41??? 38' 45""","2??? 45' 05""",Catalunya
+0811801,Ocata,8,Barcelona,8118,El Masnou,"41??? 29' 02""","2??? 20' 17""",Catalunya
+0812103,Varador,8,Barcelona,8121,Matar???,"41??? 32' 13""","2??? 27' 02""",Catalunya
+0812602,Montgat,8,Barcelona,8126,Montgat,"41??? 28' 06""","2??? 17' 04""",Catalunya
+0816301,Pineda de Mar,8,Barcelona,8163,Pineda de Mar,"41??? 37' 24""","2??? 41' 41""",Catalunya
+0817203,Pla de l'Os,8,Barcelona,8172,Premi??? de Mar,"41??? 29' 14""","2??? 21' 02""",Catalunya
+0819703,Sant Andreu de Llavaneres,8,Barcelona,8197,Sant Andreu de Llavaneres,"41??? 33' 26""","2??? 30' 01""",Catalunya
+0823504,Sant Pol,8,Barcelona,8235,Sant Pol de Mar,"41??? 36' 18""","2??? 37' 55""",Catalunya
+0826101,Santa Susanna,8,Barcelona,8261,Santa Susanna,"41??? 37' 46""","2??? 42' 39""",Catalunya
+0826401,Sant Vicen??? de Montalt,8,Barcelona,8264,Sant Vicen??? de Montalt,"41??? 33' 48""","2??? 30' 54""",Catalunya
+0827009,L'Estanyol,8,Barcelona,8270,Sitges,"41??? 13' 59""","1??? 48' 05""",Catalunya
+0830702,Ribes Roges,8,Barcelona,8307,Vilanova i la Geltr???,"41??? 12' 51""","1??? 43' 29""",Catalunya
+1100401,El Rinconcillo,11,Cadiz,11004,Algeciras,"36??? 09' 59""","-05??? 26' 13""",Andalucia
+1100402,Getares / San Garc???a,11,Cadiz,11004,Algeciras,"36??? 05' 41""","-05??? 26' 39""",Andalucia
+1100702,Canos de Meca,11,Cadiz,11007,Barbate,"36??? 11' 16""","-06??? 01' 36""",Andalucia
+1100703,El Carmen,11,Cadiz,11007,Barbate,"36??? 11' 17""","-05??? 55' 07""",Andalucia
+1100706,Zahara de los Atunes,11,Cadiz,11007,Barbate,"36??? 07' 53""","-05??? 50' 34""",Andalucia
+1100801,Palmones,11,Cadiz,11008,Los Barrios,"36??? 10' 35""","-05??? 25' 37""",Andalucia
+1101201,La Caleta,11,Cadiz,11012,Cadiz,"36??? 31' 50""","-06??? 18' 19""",Andalucia
+1101203,La Victoria,11,Cadiz,11012,Cadiz,"36??? 30' 01""","-06??? 16' 26""",Andalucia
+1101401,Roche,11,Cadiz,11014,Conil de la Frontera,"36??? 19' 07""","-06??? 09' 20""",Andalucia
+1101406,La Fontanilla,11,Cadiz,11014,Conil de la Frontera,"36??? 16' 42""","-06??? 05' 45""",Andalucia
+1101503,La Barrosa,11,Cadiz,11015,Chiclana de la Frontera,"36??? 21' 56""","-06??? 10' 43""",Andalucia
+1101602,Cruz del Mar,11,Cadiz,11016,Chipiona,"36??? 44' 38""","-06??? 26' 03""",Andalucia
+1101604,Regla,11,Cadiz,11016,Chipiona,"36??? 43' 57""","-06??? 26' 19""",Andalucia
+1102205,Levante - La Atunara,11,Cadiz,11022,La Linea de la Concepcion,"36??? 10' 23""","-05??? 20' 10""",Andalucia
+1102207,Poniente,11,Cadiz,11022,La Linea de la Concepcion,"36??? 09' 44""","-05??? 21' 26""",Andalucia
+1102701,Fuentebrav???a - Santa Catalina,11,Cadiz,11027,El Puerto de Santa Maria,"36??? 36' 04""","-06??? 16' 32""",Andalucia
+1102704,La Puntilla,11,Cadiz,11027,El Puerto de Santa Maria,"36??? 35' 14""","-06??? 14' 20""",Andalucia
+1102705,Valdelagrana,11,Cadiz,11027,El Puerto de Santa Maria,"36??? 34' 23""","-06??? 13' 24""",Andalucia
+1103001,La Ballena,11,Cadiz,11030,Rota,"36??? 41' 18""","-06??? 24' 59""",Andalucia
+1103003,Punta Candor,11,Cadiz,11030,Rota,"36??? 38' 59""","-06??? 23' 35""",Andalucia
+1103005,La Costilla,11,Cadiz,11030,Rota,"36??? 37' 07""","-06??? 21' 43""",Andalucia
+1103006,El Rompidillo - El Chorrillo,11,Cadiz,11030,Rota,"36??? 37' 30""","-06??? 20' 55""",Andalucia
+1103101,Camposoto - El Castillo,11,Cadiz,11031,San Fernando,"36??? 24' 22""","-06??? 13' 06""",Andalucia
+1103203,La Calzada - Piletas,11,Cadiz,11032,Sanlucar de Barrameda,"36??? 46' 54""","-06??? 21' 50""",Andalucia
+1103302,Torreguadiaro,11,Cadiz,11033,San Roque,"36??? 17' 50""","-05??? 16' 13""",Andalucia
+1103504,Bolonia,11,Cadiz,11035,Tarifa,"36??? 05' 07""","-05??? 46' 01""",Andalucia
+1103506,Los Lances,11,Cadiz,11035,Tarifa,"36??? 02' 07""","-05??? 37' 29""",Andalucia
+1103901,El Palmar,11,Cadiz,11039,Vejer de la Frontera,"36??? 13' 11""","-06??? 03' 44""",Andalucia
+1200402,Las Fuentes,12,Castellon,12004,Alcal??? de Xivert,"40??? 15' 14""","0??? 17' 16""",Valencia
+1200403,El Carregador,12,Castellon,12004,Alcal??? de Xivert,"40??? 14' 28""","0??? 16' 33""",Valencia
+1200902,La Torre,12,Castellon,12009,Almassora,"39??? 55' 26""","-00??? 00' 08""",Valencia
+1201101,Casa Blanca,12,Castellon,12011,Almenara,"39??? 41' 40""","-00??? 11' 58""",Valencia
+1202702,El Morrongo,12,Castellon,12027,Benicarlo,"40??? 24' 48""","0??? 25' 56""",Valencia
+1202802,L'Almadrava,12,Castellon,12028,Benicasim,"40??? 03' 12""","0??? 04' 38""",Valencia
+1202805,Heliopolis,12,Castellon,12028,Benicasim,"40??? 01' 44""","0??? 02' 44""",Valencia
+1203201,El Arenal,12,Castellon,12032,Borriana/Burriana,"39??? 52' 03""","-00??? 03' 46""",Valencia
+1204003,El Pinar,12,Castellon,12040,Castellon de la Plana,"39??? 59' 17""","-00??? 01' 37""",Valencia
+1205301,Las Casas / Les Cases,12,Castellon,12053,Chilches/Xilxes,"39??? 46' 05""","-00??? 09' 54""",Valencia
+1207703,Masbo,12,Castellon,12077,Moncofa,"39??? 48' 02""","-00??? 07' 46""",Valencia
+1208201,Nules,12,Castellon,12082,Nules,"39??? 49' 33""","-00??? 06' 35""",Valencia
+1208502,Morro de Gos,12,Castellon,12085,Oropesa del Mar/Orpesa,"40??? 05' 35""","0??? 08' 49""",Valencia
+1208503,La Concha,12,Castellon,12085,Oropesa del Mar/Orpesa,"40??? 05' 83""","0??? 08' 20""",Valencia
+1208901,Playa Norte,12,Castellon,12089,Peniscola,"40??? 21' 43""","0??? 24' 11""",Valencia
+1211701,Norte de Torreblanca,12,Castellon,12117,Torreblanca,"40??? 11' 42""","0??? 13' 29""",Valencia
+1213810,Forti,12,Castellon,12138,Torrechiva,"40??? 28' 12""","0??? 28' 43""",Valencia
+1500401,Ares,15,A Coruna,15004,Ares,"43??? 25' 38""","-08??? 14' 30""",Galicia
+1500403,Seselle,15,A Coruna,15004,Ares,"43??? 25' 43""","-08??? 13' 30""",Galicia
+1500501,Barranan,15,A Coruna,15005,Arteixo,"43??? 18' 42""","-08??? 32' 59""",Galicia
+1500801,Gandario,15,A Coruna,15008,Bergondo,"43??? 20' 36""","-08??? 14' 13""",Galicia
+1501101,Barra???a,15,A Coruna,15011,Boiro,"42??? 38' 22""","-08??? 53' 02""",Galicia
+1501103,Ma??????ns,15,A Coruna,15011,Boiro,"42??? 36' 43""","-08??? 52' 20""",Galicia
+1501501,Magdalena,15,A Coruna,15015,Cabanas,"43??? 25' 09""","-08??? 10' 11""",Galicia
+1501602,Arou,15,A Coruna,15016,Camarinas,"43??? 11' 05""","-09??? 06' 22""",Galicia
+1501902,Razo-Baldaio,15,A Coruna,15019,Carballo,"43??? 17' 54""","-08??? 40' 33""",Galicia
+1502001,Carnota,15,A Coruna,15020,Carnota,"42??? 49' 27""","-09??? 06' 14""",Galicia
+1502202,Magdalena,15,A Coruna,15022,Cedeira,"43??? 39' 14""","-08??? 02' 59""",Galicia
+1502301,Estorde,15,A Coruna,15023,Cee,"42??? 56' 40""","-09??? 13' 01""",Galicia
+1502802,Quenxe,15,A Coruna,15028,Corcubion,"42??? 56' 23""","-09??? 11' 23""",Galicia
+1503005,Riazor-Orzan,15,A Coruna,15030,A Coruna,"43??? 22' 14""","-08??? 24' 21""",Galicia
+1503401,Ezaro,15,A Coruna,15034,Dumbr???a,"42??? 54' 29""","-09??? 07' 29""",Galicia
+1503603,Doninos,15,A Coruna,15036,Ferrol,"43??? 29' 59""","-08??? 19' 00""",Galicia
+1503608,San Xurxo,15,A Coruna,15036,Ferrol,"43??? 31' 47""","-08??? 17' 43""",Galicia
+1503701,Langosteira,15,A Coruna,15037,Fisterra,"42??? 55' 19""","-09??? 15' 41""",Galicia
+1503707,Sardineiro,15,A Coruna,15037,Fisterra,"42??? 56' 30""","-09??? 13' 55""",Galicia
+1504001,Laxe,15,A Coruna,15040,Laxe,"43??? 13' 04""","-08??? 59' 52""",Galicia
+1504101,Caion,15,A Coruna,15041,A Laracha,"43??? 18' 56""","-08??? 36' 30""",Galicia
+1504302,Maior,15,A Coruna,15043,Malpica de Bergantinos,"43??? 19' 28""","-08??? 48' 54""",Galicia
+1504303,Barizo,15,A Coruna,15043,Malpica de Bergantinos,"43??? 18' 47""","-08??? 52' 25""",Galicia
+1504402,Bares,15,A Coruna,15044,Ma??????n,"43??? 46' 17""","-07??? 40' 28""",Galicia
+1504801,Grande de Mi???o,15,A Coruna,15048,Mi???o,"43??? 21' 30""","-08??? 12' 33""",Galicia
+1504803,Perbes,15,A Coruna,15048,Mi???o,"43??? 22' 35""","-08??? 12' 46""",Galicia
+1505202,Lago,15,A Coruna,15052,Muxia,"43??? 06' 27""","-09??? 09' 51""",Galicia
+1505204,Os Muinos,15,A Coruna,15052,Muxia,"43??? 05' 28""","-09??? 11' 28""",Galicia
+1505205,Lourido,15,A Coruna,15052,Muxia,"43??? 05' 17""","-09??? 13' 17""",Galicia
+1505301,San Francisco,15,A Coruna,15053,Muros,"42??? 45' 33""","-09??? 04' 24""",Galicia
+1505303,Esteiro,15,A Coruna,15053,Muros,"42??? 47' 24""","-08??? 58' 06""",Galicia
+1505701,Boa Grande,15,A Coruna,15057,Noia,"42??? 46' 45""","-08??? 55' 48""",Galicia
+1505703,Testal,15,A Coruna,15057,Noia,"42??? 47' 27""","-08??? 54' 57""",Galicia
+1505801,Bastiagueiro,15,A Coruna,15058,Oleiros,"43??? 20' 33""","-08??? 21' 40""",Galicia
+1505802,Mera,15,A Coruna,15058,Oleiros,"43??? 22' 47""","-08??? 20' 17""",Galicia
+1505803,Santa Cristina,15,A Coruna,15058,Oleiros,"43??? 20' 26""","-08??? 22' 42""",Galicia
+1506101,Espasante,15,A Coruna,15061,Ortigueira,"43??? 43' 17""","-07??? 48' 27""",Galicia
+1506102,Morouzos,15,A Coruna,15061,Ortigueira,"43??? 42' 10""","-07??? 50' 39""",Galicia
+1506201,Bro???a,15,A Coruna,15062,Outes,"42??? 48' 12""","-08??? 55' 39""",Galicia
+1506701,Areal,15,A Coruna,15067,A Pobra do Caraminal,"42??? 35' 56""","-08??? 55' 54""",Galicia
+1506702,Cab???o-Lombi???a,15,A Coruna,15067,A Pobra do Caraminal,"42??? 35' 27""","-08??? 55' 15""",Galicia
+1506802,Balar???s,15,A Coruna,15068,Ponteceso,"43??? 14' 36""","-08??? 56' 25""",Galicia
+1506803,Hermida,15,A Coruna,15068,Ponteceso,"43??? 15' 47""","-08??? 57' 01""",Galicia
+1506901,Ber,15,A Coruna,15069,Pontedeume,"43??? 23' 55""","-08??? 12' 36""",Galicia
+1507101,Aguieira,15,A Coruna,15071,Porto do Son,"42??? 44' 29""","-08??? 58' 06""",Galicia
+1507104,Coira,15,A Coruna,15071,Porto do Son,"42??? 45' 22""","-08??? 56' 59""",Galicia
+1507109,Queiruga,15,A Coruna,15071,Porto do Son,"42??? 40' 37""","-09??? 01' 45""",Galicia
+1507110,As Furnas,15,A Coruna,15071,Porto do Son,"42??? 38' 50""","-09??? 02' 05""",Galicia
+1507111,Baro???a,15,A Coruna,15071,Porto do Son,"42??? 41' 25""","-09??? 01' 39""",Galicia
+1507202,Tanxil,15,A Coruna,15072,Rianxo,"42??? 38' 44""","-08??? 48' 36""",Galicia
+1507302,O Castro,15,A Coruna,15073,Ribeira,"42??? 31' 44""","-09??? 00' 27""",Galicia
+1507304,Coroso,15,A Coruna,15073,Ribeira,"42??? 34' 04""","-08??? 59' 09""",Galicia
+1507305,Corrubedo,15,A Coruna,15073,Ribeira,"42??? 34' 30""","-09??? 02' 49""",Galicia
+1507506,San Pedro,15,A Coruna,15075,Sada,"43??? 23' 02""","-08??? 17' 14""",Galicia
+1507507,Sada,15,A Coruna,15075,Sada,"43??? 20' 59""","-08??? 14' 55""",Galicia
+1508701,Frouxeira,15,A Coruna,15087,Valdovino,"43??? 36' 46""","-08??? 10' 10""",Galicia
+1590101,A Concha,15,A Coruna,15901,Carino,"43??? 44' 11""","-07??? 52' 22""",Galicia
+1701303,Sa Riera,17,Girona,17013,Albany???,"41??? 58' 21""","3??? 12' 38""",Catalunya
+1702303,Blanes,17,Girona,17023,Blanes,"41??? 40' 30""","2??? 47' 35""",Catalunya
+1702304,S'Abanell,17,Girona,17023,Blanes,"41??? 40' 07""","2??? 47' 14""",Catalunya
+1703209,Gran de Cadaques,17,Girona,17032,Cadaques,"42??? 17' 20""","3??? 16' 43""",Catalunya
+1703402,Torre Valentina - Sant Antoni,17,Girona,17034,Calonge,"41??? 50' 38""","3??? 06' 00""",Catalunya
+1704702,Emp???riabrava,17,Girona,17047,Castell??? d'Emp???ries,"42??? 14' 34""","3??? 07' 47""",Catalunya
+1704805,Platja d'Aro,17,Girona,17048,Castell-Platja d'Aro,"41??? 48' 50""","3??? 04' 03""",Catalunya
+1705402,En Goixa,17,Girona,17054,Colera,"42??? 24' 22""","3??? 09' 19""",Catalunya
+1706209,Riells,17,Girona,17062,L'Escala,"42??? 06' 54""","3??? 08' 22""",Catalunya
+1709203,El Port,17,Girona,17092,Llan??????,"42??? 22' 22""","3??? 09' 35""",Catalunya
+1709507,Lloret,17,Girona,17095,Lloret de Mar,"41??? 42' 02""","2??? 51' 08""",Catalunya
+1709509,Fenals,17,Girona,17095,Lloret de Mar,"41??? 41' 44""","2??? 50' 01""",Catalunya
+1711703,Llafranc,17,Girona,17117,Palafrugell,"41??? 53' 37""","3??? 11' 38""",Catalunya
+1711804,De la Fosca,17,Girona,17118,Palamos,"41??? 51' 28""","3??? 08' 36""",Catalunya
+1712401,Pals,17,Girona,17124,Palamos,"41??? 59' 19""","3??? 12' 08""",Catalunya
+1713803,Portbou,17,Girona,17138,Portbou,"42??? 25' 38""","3??? 09' 38""",Catalunya
+1714003,Port de la Selva,17,Girona,17140,El Port de la Selva,"42??? 20' 06""","3??? 12' 05""",Catalunya
+1715203,De Roses,17,Girona,17152,Roses,"42??? 15' 51""","3??? 09' 42""",Catalunya
+1716001,Sant Pol,17,Girona,17160,Sant Feliu de Guixols,"41??? 47' 26""","3??? 02' 56""",Catalunya
+1716002,Sant Feliu de Gu???xols,17,Girona,17160,Sant Feliu de Guixols,"41??? 46' 48""","3??? 01' 48""",Catalunya
+1717801,Sant Pere Pescador,17,Girona,17178,Sant Pere Pescador,"42??? 10' 43""","3??? 06' 36""",Catalunya
+1719902,L'Estartit,17,Girona,17199,Torroella de Montgri,"42??? 02' 54""","3??? 11' 50""",Catalunya
+1720207,Gran de Tossa,17,Girona,17202,Tossa de Mar,"41??? 43' 13""","2??? 56' 04""",Catalunya
+1800606,La R???bita,18,Granada,18006,Albu???ol,"36??? 44' 54""","-03??? 10' 15""",Andalucia
+1801701,Cantarrij???n,18,Granada,18017,Almunecar,"36??? 44' 15""","-03??? 46' 21""",Andalucia
+1801703,La Herradura,18,Granada,18017,Almunecar,"36??? 44' 08""","-03??? 44' 37""",Andalucia
+1801707,San Cristobal-La China,18,Granada,18017,Almunecar,"36??? 43' 54""","-03??? 41' 10""",Andalucia
+1801709,Puerta del Mar-Fuentepiedra,18,Granada,18017,Almunecar,"36??? 43' 51""","-03??? 41' 14""",Andalucia
+1801710,Velilla,18,Granada,18017,Almunecar,"36??? 44' 22""","-03??? 40' 00""",Andalucia
+1809302,Sotillo-Castell de Ferro,18,Granada,18093,Gualchos,"36??? 43' 15""","-03??? 21' 34""",Andalucia
+1812401,Cambriles,18,Granada,18124,Lujar,"36??? 43' 48""","-03??? 20' 60""",Andalucia
+1814002,Pelaillo-Poniente,18,Granada,18140,Motril,"36??? 43' 22""","-03??? 32' 14""",Andalucia
+1814004,Torrenueva,18,Granada,18140,Motril,"36??? 42' 12""","-03??? 29' 13""",Andalucia
+1814008,Calahonda,18,Granada,18140,Motril,"36??? 41' 60""","-03??? 24' 52""",Andalucia
+1816201,La Mamola,18,Granada,18162,Polopos,"36??? 44' 53""","-03??? 16' 34""",Andalucia
+1817001,El Lance,18,Granada,18170,Rubite,"36??? 44' 25""","-03??? 18' 24""",Andalucia
+1817304,La Charca-Solamar,18,Granada,18173,Salobre???a,"36??? 44' 13""","-03??? 35' 21""",Andalucia
+1817704,Melicena,18,Granada,18177,Sorvil???n,"36??? 45' 15""","-03??? 14' 22""",Andalucia
+2002901,Deba-Deva,20,Gipuzkoa,20029,Deba,"43??? 17' 59""","-02??? 21' 05""",Euskadi
+2003602,Hondarribia-Fuenterrab???a,20,Gipuzkoa,20036,Hondarribia,"43??? 22' 50""","-01??? 47' 36""",Euskadi
+2003903,Gaztetape-Gastetape,20,Gipuzkoa,20039,Getaria,"43??? 18' 20""","-02??? 12' 18""",Euskadi
+2003904,Malkorbe-Marcorbe,20,Gipuzkoa,20039,Getaria,"43??? 18' 12""","-02??? 12' 03""",Euskadi
+2005601,Saturraran,20,Gipuzkoa,20056,Mutriku,"43??? 19' 23""","-02??? 24' 34""",Euskadi
+2005604,Mutriku-Motrico,20,Gipuzkoa,20056,Mutriku,"43??? 18' 43""","-02??? 22' 45""",Euskadi
+2006102,La Antilla-San Juan,20,Gipuzkoa,20061,Orio,"43??? 17' 32""","-02??? 07' 36""",Euskadi
+2006902,Ondarreta-Ondarreta,20,Gipuzkoa,20069,Donostia/San Sebasti???n,"43??? 19' 05""","-01??? 59' 58""",Euskadi
+2006904,La Kontxa-La Concha,20,Gipuzkoa,20069,Donostia/San Sebasti???n,"43??? 19' 02""","-01??? 59' 20""",Euskadi
+2006905,La Zurriola,20,Gipuzkoa,20069,Donostia/San Sebasti???n,"43??? 19' 04""","-01??? 58' 25""",Euskadi
+2007901,Zarautz-Zarauz,20,Gipuzkoa,20079,Zarautz,"43??? 17' 29""","-02??? 09' 43""",Euskadi
+2008102,Itzurun-San Telmo,20,Gipuzkoa,20081,Zumaia,"43??? 18' 05""","-02??? 15' 37""",Euskadi
+2008103,Santixo-Santiago,20,Gipuzkoa,20081,Zumaia,"43??? 18' 10""","-02??? 14' 46""",Euskadi
+2100502,Matalasca???as,21,Huelva,21005,Almonte,"36??? 57' 32""","-06??? 29' 40""",Andalucia
+2101001,Isla Canela,21,Huelva,21010,Ayamonte,"37??? 10' 24""","-07??? 22' 27""",Andalucia
+2102102,El Portil,21,Huelva,21021,Cartaya,"37??? 12' 26""","-07??? 02' 17""",Andalucia
+2104101,El Espig???n,21,Huelva,21041,Huelva,"37??? 10' 34""","-06??? 56' 52""",Andalucia
+2104202,Central,21,Huelva,21042,Isla Cristina,"37??? 11' 42""","-07??? 18' 25""",Andalucia
+2104203,Del Hoyo,21,Huelva,21042,Isla Cristina,"37??? 11' 25""","-07??? 16' 51""",Andalucia
+2104205,Islantilla,21,Huelva,21042,Isla Cristina,"37??? 12' 21""","-07??? 14' 19""",Andalucia
+2104402,Antilla,21,Huelva,21044,Lepe,"37??? 12' 22""","-07??? 12' 29""",Andalucia
+2105001,El Parador,21,Huelva,21050,Moguer,"37??? 06' 46""","-06??? 46' 27""",Andalucia
+2105501,De Mazag???n,21,Huelva,21055,Palos de la Frontera,"37??? 07' 52""","-06??? 49' 34""",Andalucia
+2106002,La Bota,21,Huelva,21060,Punta Umbria,"37??? 12' 13""","-07??? 13' 09""",Andalucia
+2106004,Punta Umbria,21,Huelva,21060,Punta Umbria,"37??? 11' 31""","-06??? 59' 46""",Andalucia
+2700501,Altar,27,Lugo,27005,Barreiros,"43??? 34' 03""","-07??? 14' 15""",Galicia
+2700503,San Miguel Reinante/Area Longa,27,Lugo,27005,Barreiros,"43??? 33' 55""","-07??? 12' 59""",Galicia
+2700504,Valea,27,Lugo,27005,Barreiros,"43??? 33' 50""","-07??? 12' 22""",Galicia
+2701302,O Torno,27,Lugo,27013,Cervo,"43??? 41' 53""","-07??? 26' 23""",Galicia
+2701901,A Rapadoira,27,Lugo,27019,Foz,"43??? 34' 22""","-07??? 14' 50""",Galicia
+2701902,Area Longa,27,Lugo,27019,Foz,"43??? 36' 25""","-07??? 18' 11""",Galicia
+2702501,Esteiro,27,Lugo,27025,Xove,"43??? 42' 42""","-07??? 33' 29""",Galicia
+2702503,Lago,27,Lugo,27025,Xove,"43??? 42' 35""","-07??? 28' 45""",Galicia
+2705005,Os Castros,27,Lugo,27050,Quiroga,"43??? 33' 25""","-07??? 02' 55""",Galicia
+2705101,As Catedrais,27,Lugo,27051,Ribadeo,"43??? 33' 19""","-07??? 09' 31""",Galicia
+2706401,Abrela,27,Lugo,27064,O Vicedo,"43??? 42' 04""","-07??? 36' 47""",Galicia
+2706402,Area Longa,27,Lugo,27064,O Vicedo,"43??? 43' 59""","-07??? 41' 34""",Galicia
+2706403,Areagrande,27,Lugo,27064,O Vicedo,"43??? 43' 07""","-07??? 37' 32""",Galicia
+2706405,Xilloi,27,Lugo,27064,O Vicedo,"43??? 44' 40""","-07??? 39' 06""",Galicia
+2706601,Area,27,Lugo,27066,Viveiro,"43??? 41' 33""","-07??? 34' 34""",Galicia
+2706602,Covas,27,Lugo,27066,Viveiro,"43??? 40' 17""","-07??? 36' 08""",Galicia
+2790201,A Marosa,27,Lugo,27902,Burela,"43??? 40' 30""","-07??? 22' 19""",Galicia
+2902503,Bil-Bil y Arroyo de la Miel,29,Malaga,29025,Benalmadena,"36??? 35' 24""","-04??? 31' 41""",Andalucia
+2902514,Carvajal,29,Malaga,29025,Benalmadena,"36??? 34' 20""","-04??? 35' 20""",Andalucia
+2904101,Ancha,29,Malaga,29041,Casares,"36??? 22' 38""","-05??? 13' 10""",Andalucia
+2905106,La Rada,29,Malaga,29051,Estepona,"36??? 25' 29""","-05??? 08' 41""",Andalucia
+2905402,Los Boliches - Las Gaviotas,29,Malaga,29054,Fuengirola,"36??? 33' 29""","-04??? 36' 31""",Andalucia
+2906707,La Malagueta,29,Malaga,29067,Malaga,"36??? 43' 09""","-04??? 24' 28""",Andalucia
+2906712,El Dedo - El Chanquete,29,Malaga,29067,Malaga,"36??? 43' 01""","-04??? 20' 58""",Andalucia
+2906801,Sabinillas,29,Malaga,29068,Manilva,"36??? 21' 59""","-05??? 13' 28""",Andalucia
+2906906,Rio Verde - Puerto Banus,29,Malaga,29069,Marbella,"36??? 29' 47""","-04??? 56' 32""",Andalucia
+2906912,La Bajadilla,29,Malaga,29069,Marbella,"36??? 30' 28""","-04??? 52' 38""",Andalucia
+2906921,Alicate - Costa Bella - Pinomar,29,Malaga,29069,Marbella,"36??? 29' 54""","-04??? 48' 34""",Andalucia
+2907002,La Butibamba,29,Malaga,29070,Mijas,"36??? 30' 01""","-04??? 40' 58""",Andalucia
+2907502,Torrecilla,29,Malaga,29075,Nerja,"36??? 44' 31""","-03??? 52' 58""",Andalucia
+2907509,Burriana,29,Malaga,29075,Nerja,"36??? 45' 05""","-03??? 51' 57""",Andalucia
+2908202,Rincon de la Victoria,29,Malaga,29082,Rinc???n de la Victoria,"36??? 42' 51""","-04??? 16' 51""",Andalucia
+2909103,Ferrara - Las Lindes,29,Malaga,29091,Torrox,"36??? 43' 55""","-03??? 58' 33""",Andalucia
+2909406,Torre del Mar,29,Malaga,29094,V???lez-M???laga,"36??? 44' 34""","-04??? 05' 16""",Andalucia
+2990102,La Carihuela - El Bajondillo - Playamar,29,Malaga,29901,Torremolinos,"36??? 37' 18""","-04??? 29' 40""",Andalucia
+3000301,La Carolina,30,Murcia,30003,???guilas,"37??? 22' 36""","-01??? 37' 40""",Murcia
+3000312,La Colonia,30,Murcia,30003,???guilas,"37??? 24' 05""","-01??? 35' 26""",Murcia
+3000313,Poniente,30,Murcia,30003,???guilas,"37??? 24' 09""","-01??? 35' 08""",Murcia
+3000314,Levante,30,Murcia,30003,???guilas,"37??? 24' 23""","-01??? 34' 36""",Murcia
+3000315,Las Delicias,30,Murcia,30003,???guilas,"37??? 24' 25""","-01??? 34' 03""",Murcia
+3000327,Calabardina,30,Murcia,30003,???guilas,"37??? 25' 48""","-01??? 30' 05""",Murcia
+3001610,La Azoh???a,30,Murcia,30016,Cartagena,"37??? 33' 22""","-01??? 10' 09""",Murcia
+3001619,El Port???s,30,Murcia,30016,Cartagena,"37??? 35' 03""","-01??? 04' 27""",Murcia
+3001624,Cala Cortina,30,Murcia,30016,Cartagena,"37??? 34' 52""","-00??? 58' 28""",Murcia
+3001634,De Calblanque,30,Murcia,30016,Cartagena,"37??? 36' 16""","-00??? 43' 44""",Murcia
+3001653,Las Amoladeras,30,Murcia,30016,Cartagena,"37??? 38' 50""","-00??? 42' 48""",Murcia
+3001655,Barco Perdido,30,Murcia,30016,Cartagena,"37??? 39' 41""","-00??? 43' 16""",Murcia
+3001676,Los Urrutias,30,Murcia,30016,Cartagena,"37??? 41' 04""","-00??? 49' 51""",Murcia
+3002414,Puntas de Calnegre,30,Murcia,30024,Lorca,"37??? 30' 37""","-01??? 24' 05""",Murcia
+3002618,Bolnuevo,30,Murcia,30026,Mazarr???n,"37??? 33' 40""","-01??? 18' 24""",Murcia
+3002623,La Reya,30,Murcia,30026,Mazarr???n,"37??? 33' 33""","-01??? 16' 34""",Murcia
+3002626,La Isla,30,Murcia,30026,Mazarr???n,"37??? 33' 34""","-01??? 15' 53""",Murcia
+3002630,El Alamillo,30,Murcia,30026,Mazarr???n,"37??? 34' 36""","-01??? 14' 38""",Murcia
+3002633,Del Moj???n,30,Murcia,30026,Mazarr???n,"37??? 34' 34""","-01??? 13' 38""",Murcia
+3003503,De Col???n,30,Murcia,30035,San Javier,"37??? 48' 03""","-00??? 48' 05""",Murcia
+3003509,Mistral,30,Murcia,30035,San Javier,"37??? 45' 28""","-00??? 44' 48""",Murcia
+3003526,El Arenal,30,Murcia,30035,San Javier,"37??? 41' 32""","-00??? 44' 10""",Murcia
+3003531,Banco del Tabal,30,Murcia,30035,San Javier,"37??? 40' 25""","-00??? 43' 45""",Murcia
+3003602,Villananitos,30,Murcia,30036,San Pedro del Pinatar,"37??? 49' 00""","-00??? 47' 03""",Murcia
+3003605,La Torre Derribada,30,Murcia,30036,San Pedro del Pinatar,"37??? 50' 09""","-00??? 45' 39""",Murcia
+3003606,Las Salinas,30,Murcia,30036,San Pedro del Pinatar,"37??? 49' 04""","-00??? 45' 25""",Murcia
+3004102,Del Lastre,30,Murcia,30041,La Uni???n,"37??? 34' 48""","-00??? 50' 36""",Murcia
+3090202,Punta Calera,30,Murcia,30902,Los Alc???zares,"37??? 45' 14""","-00??? 49' 52""",Murcia
+3090205,El Espejo,30,Murcia,30902,Los Alc???zares,"37??? 44' 35""","-00??? 50' 51""",Murcia
+3090206,Manzanares,30,Murcia,30902,Los Alc???zares,"37??? 44' 29""","-00??? 50' 55""",Murcia
+3301303,Arenal de Moris,33,Asturias,33013,Caravia,"43??? 28' 32""","-05??? 10' 24""",Asturias
+3301403,Cand???s - La Palmera,33,Asturias,33014,Carreno,"43??? 35' 21""","-05??? 45' 36""",Asturias
+3301406,Xivares,33,Asturias,33014,Carreno,"43??? 34' 14""","-05??? 43' 06""",Asturias
+3301608,Salinas - San Juan,33,Asturias,33016,Castrillon,"43??? 34' 57""","-05??? 56' 53""",Asturias
+3301704,Pe???arronda,33,Asturias,33017,Castropol,"43??? 33' 12""","-06??? 59' 38""",Asturias
+3301804,Arnielles,33,Asturias,33018,Coa???a,"43??? 33' 40""","-06??? 43' 50""",Asturias
+3301903,La Isla,33,Asturias,33019,Colunga,"43??? 28' 46""","-05??? 13' 20""",Asturias
+3302117,San Pedro de Bocamar,33,Asturias,33021,Cudillero,"43??? 34' 46""","-06??? 13' 10""",Asturias
+3302120,La Concha de Artedo,33,Asturias,33021,Cudillero,"43??? 33' 53""","-06??? 11' 13""",Asturias
+3302302,Pormenande,33,Asturias,33023,El Franco,"43??? 33' 53""","-06??? 49' 33""",Asturias
+3302403,San Lorenzo,33,Asturias,33024,Gijon,"43??? 32' 31""","-05??? 39' 06""",Asturias
+3302509,Santa Marina de Luanco,33,Asturias,33025,Goz???n,"43??? 37' 10""","-05??? 47' 13""",Asturias
+3303402,Otur,33,Asturias,33034,Valdes,"43??? 33' 13""","-06??? 35' 47""",Asturias
+3303407,Primera y Segunda de Luarca,33,Asturias,33034,Valdes,"43??? 32' 51""","-06??? 32' 13""",Asturias
+3303612,Niembro,33,Asturias,33036,Llanes,"43??? 26' 30""","-04??? 50' 18""",Asturias
+3303614,Xiglu - Barro - Sorraos,33,Asturias,33036,Llanes,"43??? 26' 14""","-04??? 49' 26""",Asturias
+3303618,Palombina - Las Camaras,33,Asturias,33036,Llanes,"43??? 25' 58""","-04??? 48' 27""",Asturias
+3303626,Tor???,33,Asturias,33036,Llanes,"43??? 25' 03""","-04??? 44' 31""",Asturias
+3303902,Aguilar,33,Asturias,33039,Muros de Nal???n,"43??? 33' 23""","-06??? 07' 05""",Asturias
+3304101,Navia,33,Asturias,33041,Navia,"43??? 33' 22""","-06??? 43' 16""",Asturias
+3305501,La Franca,33,Asturias,33055,Ribadedeva,"43??? 23' 37""","-04??? 34' 34""",Asturias
+3305601,Vega,33,Asturias,33056,Ribadesella,"43??? 28' 49""","-05??? 08' 19""",Asturias
+3305602,Santa Marina,33,Asturias,33056,Ribadesella,"43??? 27' 59""","-05??? 04' 04""",Asturias
+3306901,Los Quebrantos,33,Asturias,33069,Soto del Barco,"43??? 34' 16""","-06??? 03' 08""",Asturias
+3307007,Anguileiro,33,Asturias,33070,Tapia de Casariego,"43??? 34' 07""","-06??? 56' 50""",Asturias
+3307606,Rodiles,33,Asturias,33076,Villaviciosa,"43??? 32' 03""","-05??? 22' 45""",Asturias
+3500101,Las Nieves,35,Las Palmas,35001,Agaete,"28??? 06' 03""","-15??? 42' 37""",Canarias
+3500201,Arinaga,35,Las Palmas,35002,Ag???imes,"27??? 51' 25""","-15??? 23' 51""",Canarias
+3500301,Caleta de Fuste,35,Las Palmas,35003,Antigua,"28??? 23' 45""","-13??? 51' 32""",Canarias
+3500403,El Reducto,35,Las Palmas,35004,Arrecife,"28??? 57' 30""","-13??? 33' 29""",Canarias
+3500601,El Puertillo,35,Las Palmas,35006,Arucas,"28??? 09' 00""","-15??? 32' 08""",Canarias
+3500901,Sardina,35,Las Palmas,35009,G???ldar,"28??? 09' 07""","-15??? 41' 46""",Canarias
+3501017,La Garita,35,Las Palmas,35010,Har???a,"29??? 07' 03""","-13??? 27' 54""",Canarias
+3501101,El Burrero,35,Las Palmas,35011,Ingenio,"27??? 54' 40""","-15??? 23' 15""",Canarias
+3501201,Taurito,35,Las Palmas,35012,Mog???n,"27??? 48' 54""","-15??? 45' 12""",Canarias
+3501202,Amadores,35,Las Palmas,35012,Mog???n,"27??? 47' 25""","-15??? 43' 28""",Canarias
+3501301,Charco de San Lorenzo,35,Las Palmas,35013,Moya,"28??? 08' 37""","-15??? 34' 33""",Canarias
+3501401,Marfol???n,35,Las Palmas,35014,La Oliva,"28??? 41' 30""","-14??? 00' 44""",Canarias
+3501402,Corralejo,35,Las Palmas,35014,La Oliva,"28??? 44' 10""","-13??? 52' 04""",Canarias
+3501403,Grandes Playas-El Caser???n,35,Las Palmas,35014,La Oliva,"28??? 42' 36""","-13??? 50' 21""",Canarias
+3501501,Aju???,35,Las Palmas,35015,Pajara,"28??? 23' 50""","-14??? 09' 19""",Canarias
+3501502,La Pared,35,Las Palmas,35015,Pajara,"28??? 13' 05""","-14??? 13' 13""",Canarias
+3501503,El Cofete,35,Las Palmas,35015,Pajara,"28??? 06' 29""","-14??? 23' 47""",Canarias
+3501504,El Puertito,35,Las Palmas,35015,Pajara,"28??? 04' 20""","-14??? 30' 07""",Canarias
+3501505,Morro Jable,35,Las Palmas,35015,Pajara,"28??? 02' 55""","-14??? 20' 43""",Canarias
+3501506,Butihondo y El Matorral,35,Las Palmas,35015,Pajara,"28??? 03' 52""","-14??? 18' 47""",Canarias
+3501507,Costa Calma y Sotavento de Jand???a,35,Las Palmas,35015,Pajara,"28??? 09' 38""","-14??? 13' 34""",Canarias
+3501601,Las Canteras,35,Las Palmas,35016,Las Palmas de Gran Canaria,"28??? 08' 25""","-15??? 26' 09""",Canarias
+3501701,El Puertito,35,Las Palmas,35017,Puerto del Rosario,"28??? 32' 35""","-14??? 03' 48""",Canarias
+3501702,Blanca,35,Las Palmas,35017,Puerto del Rosario,"28??? 28' 35""","-13??? 52' 02""",Canarias
+3501801,Honda,35,Las Palmas,35018,San Bartolome,"28??? 56' 59""","-13??? 35' 31""",Canarias
+3501901,Maspalomas,35,Las Palmas,35019,San Bartolome de Tirajana,"27??? 44' 16""","-15??? 34' 59""",Canarias
+3501902,El Ingles,35,Las Palmas,35019,San Bartolome de Tirajana,"27??? 44' 52""","-15??? 33' 42""",Canarias
+3501903,San Agustin,35,Las Palmas,35019,San Bartolome de Tirajana,"27??? 46' 13""","-15??? 32' 22""",Canarias
+3502001,Puerto La Aldea y La Aldea,35,Las Palmas,35020,La Aldea de San Nicolas,"28??? 00' 23""","-15??? 49' 02""",Canarias
+3502002,Tasarte,35,Las Palmas,35020,La Aldea de San Nicolas,"27??? 52' 16""","-15??? 48' 20""",Canarias
+3502201,Pozo Izquierdo,35,Las Palmas,35022,Santa Lucia de Tirajana,"27??? 49' 21""","-15??? 25' 26""",Canarias
+3502301,San Felipe,35,Las Palmas,35023,Santa Maria de Guia de Gran Canaria,"28??? 08' 45""","-15??? 35' 32""",Canarias
+3502425,Las Cucharas,35,Las Palmas,35024,Teguise,"28??? 59' 52""","-13??? 29' 19""",Canarias
+3502601,Melenara,35,Las Palmas,35026,Telde,"27??? 59' 15""","-15??? 22' 33""",Canarias
+3502808,Los Pocillos,35,Las Palmas,35028,T??as,"28??? 55' 36""","-13??? 38' 09""",Canarias
+3502809,Matagorda,35,Las Palmas,35028,T??as,"28??? 56' 55""","-13??? 35' 52""",Canarias
+3502811,Guacimeta,35,Las Palmas,35028,T??as,"28??? 56' 21""","-13??? 36' 28""",Canarias
+3502904,Rua de la Santa,35,Las Palmas,35029,Tinajo,"29??? 07' 01""","-13??? 39' 13""",Canarias
+3503001,Gran Tarajal,35,Las Palmas,35030,Tuineje,"28??? 12' 43""","-14??? 01' 10""",Canarias
+3503410,Playa Blanca,35,Las Palmas,35034,Yaiza,"28??? 51' 46""","-13??? 49' 47""",Canarias
+3600303,Ladeira,36,Pontevedra,36003,Baiona,"42??? 06' 55""","-08??? 49' 31""",Galicia
+3600402,Area de Bon,36,Pontevedra,36004,Bueu,"42??? 18' 56""","-08??? 49' 04""",Galicia
+3600408,Mourisca,36,Pontevedra,36004,Bueu,"42??? 20' 19""","-08??? 49' 15""",Galicia
+3600411,Portomaior-Agrelo,36,Pontevedra,36004,Bueu,"42??? 20' 15""","-08??? 45' 51""",Galicia
+3600419,Melide,36,Pontevedra,36004,Bueu,"42??? 23' 27""","-08??? 55' 25""",Galicia
+3600802,Barra-Nerga,36,Pontevedra,36008,Cangas,"42??? 15' 40""","-08??? 50' 35""",Galicia
+3600803,Rodeira,36,Pontevedra,36008,Cangas,"42??? 15' 46""","-08??? 46' 09""",Galicia
+3600805,Area Brava,36,Pontevedra,36008,Cangas,"42??? 17' 34""","-08??? 50' 32""",Galicia
+3600806,Area Grande,36,Pontevedra,36008,Cangas,"42??? 16' 36""","-08??? 49' 09""",Galicia
+3600807,Limens,36,Pontevedra,36008,Cangas,"42??? 15' 38""","-08??? 48' 37""",Galicia
+3600808,Vilarino-Arnelas,36,Pontevedra,36008,Cangas,"42??? 16' 43""","-08??? 49' 40""",Galicia
+3602201,A Lanzada,36,Pontevedra,36022,O Grove,"42??? 26' 53""","-08??? 52' 28""",Galicia
+3602202,Area da Cruz,36,Pontevedra,36022,O Grove,"42??? 27' 49""","-08??? 54' 37""",Galicia
+3602208,Area Grande,36,Pontevedra,36022,O Grove,"42??? 28' 42""","-08??? 55' 09""",Galicia
+3602209,Mexilloeira,36,Pontevedra,36022,O Grove,"42??? 28' 38""","-08??? 54' 20""",Galicia
+3602305,Camposancos,36,Pontevedra,36023,A Guarda,"41??? 52' 24""","-08??? 52' 09""",Galicia
+3602601,Aguete,36,Pontevedra,36026,Marin,"42??? 22' 35""","-08??? 43' 45""",Galicia
+3602603,Mogor,36,Pontevedra,36026,Marin,"42??? 23' 11""","-08??? 43' 09""",Galicia
+3602606,Lapaman,36,Pontevedra,36026,Marin,"42??? 20' 40""","-08??? 45' 05""",Galicia
+3602902,Tiran,36,Pontevedra,36029,Moana,"42??? 16' 08""","-08??? 45' 00""",Galicia
+3602903,Xunqueira,36,Pontevedra,36029,Moana,"42??? 17' 15""","-08??? 43' 33""",Galicia
+3603501,Panxon-America,36,Pontevedra,36035,Nigran,"42??? 08' 12""","-08??? 48' 59""",Galicia
+3603504,Patos,36,Pontevedra,36035,Nigran,"42??? 09' 27""","-08??? 49' 17""",Galicia
+3604103,Chancelas,36,Pontevedra,36041,Poio,"42??? 25' 24""","-08??? 42' 59""",Galicia
+3604501,Cesantes,36,Pontevedra,36045,Redondela,"42??? 18' 16""","-08??? 36' 50""",Galicia
+3605102,Areas,36,Pontevedra,36051,Sanxenxo,"42??? 23' 42""","-08??? 46' 40""",Galicia
+3605103,Portonovo-Baltar,36,Pontevedra,36051,Sanxenxo,"42??? 23' 57""","-08??? 49' 16""",Galicia
+3605105,Canelas,36,Pontevedra,36051,Sanxenxo,"42??? 23' 24""","-08??? 49' 49""",Galicia
+3605110,Maxor,36,Pontevedra,36051,Sanxenxo,"42??? 24' 50""","-08??? 52' 00""",Galicia
+3605111,Montalvo,36,Pontevedra,36051,Sanxenxo,"42??? 23' 52""","-08??? 50' 51""",Galicia
+3605117,Silgar,36,Pontevedra,36051,Sanxenxo,"42??? 24' 07""","-08??? 48' 36""",Galicia
+3605701,A Fonte,36,Pontevedra,36057,Vigo,"42??? 13' 05""","-08??? 46' 30""",Galicia
+3605702,Bao,36,Pontevedra,36057,Vigo,"42??? 12' 00""","-08??? 47' 23""",Galicia
+3605703,Rodas,36,Pontevedra,36057,Vigo,"42??? 13' 25""","-08??? 54' 01""",Galicia
+3605706,Samil,36,Pontevedra,36057,Vigo,"42??? 12' 44""","-08??? 46' 27""",Galicia
+3605711,Canido,36,Pontevedra,36057,Vigo,"42??? 11' 49""","-08??? 47' 41""",Galicia
+3606001,Compostela,36,Pontevedra,36060,Vilagarcia de Arousa,"42??? 36' 32""","-08??? 46' 03""",Galicia
+3606102,As Sinas,36,Pontevedra,36061,Vilanova de Arousa,"42??? 34' 42""","-08??? 49' 03""",Galicia
+3606103,O Terron,36,Pontevedra,36061,Vilanova de Arousa,"42??? 33' 30""","-08??? 49' 59""",Galicia
+3690102,Camaxe,36,Pontevedra,36901,A Illa de Arousa,"42??? 32' 46""","-08??? 51' 42""",Galicia
+3800112,Fanabe,38,Santa Cruz de Tenerife,38001,Adeje,"28??? 05' 05""","-16??? 44' 13""",Tenerife
+3800116,Las Americas,38,Santa Cruz de Tenerife,38001,Adeje,"28??? 04' 08""","-16??? 43' 59""",Tenerife
+3800301,Santiago,38,Santa Cruz de Tenerife,38003,Alajero,"28??? 01' 40""","-17??? 11' 53""",Tenerife
+3800302,Nogales,38,Santa Cruz de Tenerife,38003,Alajero,"28??? 45' 36""","-17??? 44' 27""",Tenerife
+3800504,Poris,38,Santa Cruz de Tenerife,38005,Arico,"28??? 09' 52""","-16??? 25' 53""",Tenerife
+3800603,Las Vistas,38,Santa Cruz de Tenerife,38006,Arona,"28??? 03' 02""","-16??? 43' 19""",Tenerife
+3800801,Bajamar,38,Santa Cruz de Tenerife,38008,Bre??a Alta,"28??? 40' 12""","-17??? 46' 32""",Tenerife
+3800901,Los Cancajos,38,Santa Cruz de Tenerife,38009,Bre??a Baja,"28??? 39' 10""","-17??? 45' 37""",Tenerife
+3801005,La Ballenita,38,Santa Cruz de Tenerife,38010,Buenavista del Norte,"28??? 20' 34""","-16??? 55' 12""",Tenerife
+3801103,La Hornilla - Los Guanches,38,Santa Cruz de Tenerife,38011,Candelaria,"28??? 21' 14""","-16??? 22' 10""",Tenerife
+3801311,La Restinga,38,Santa Cruz de Tenerife,38013,Frontera,"27??? 38' 27""","-17??? 58' 48""",Tenerife
+3801404,El Faro,38,Santa Cruz de Tenerife,38014,Fuencaliente de la Palma,"28??? 27' 21""","-17??? 50' 09""",Tenerife
+3801503,Caleton De Garachico,38,Santa Cruz de Tenerife,38015,Garachico,"28??? 22' 16""","-16??? 46' 09""",Tenerife
+3801705,El Medano,38,Santa Cruz de Tenerife,38017,Granadilla de Abona,"28??? 02' 29""","-16??? 32' 31""",Tenerife
+3801801,Santo Domingo,38,Santa Cruz de Tenerife,38018,La Guancha,"28??? 23' 32""","-16??? 40' 43""",Tenerife
+3801905,San Juan,38,Santa Cruz de Tenerife,38019,Guia de Isora,"28??? 10' 48""","-16??? 48' 47""",Tenerife
+3802002,El Puertito,38,Santa Cruz de Tenerife,38020,Guimar,"28??? 17' 28""","-16??? 22' 40""",Tenerife
+3802101,Hermigua,38,Santa Cruz de Tenerife,38021,Hermigua,"28??? 10' 43""","-17??? 10' 48""",Tenerife
+3802201,San Marcos,38,Santa Cruz de Tenerife,38022,Icod de los Vinos,"28??? 22' 35""","-16??? 43' 37""",Tenerife
+3802302,San Juan/Castillo,38,Santa Cruz de Tenerife,38023,San Cristobal de La Laguna,"28??? 33' 24""","-16??? 20' 30""",Tenerife
+3802305,El Arenisco,38,Santa Cruz de Tenerife,38023,San Cristobal de La Laguna,"28??? 33' 58""","-16??? 19' 56""",Tenerife
+3802403,Puerto Naos,38,Santa Cruz de Tenerife,38024,Los Llanos de Aridane,"28??? 35' 04""","-17??? 54' 36""",Tenerife
+3802501,El Caleton,38,Santa Cruz de Tenerife,38025,La Matanza de Acentejo,"28??? 27' 30""","-16??? 27' 41""",Tenerife
+3802601,El Bollullo,38,Santa Cruz de Tenerife,38026,La Orotava,"28??? 25' 04""","-16??? 31' 13""",Tenerife
+3802801,Jardin,38,Santa Cruz de Tenerife,38028,Puerto de la Cruz,"28??? 24' 56""","-16??? 33' 31""",Tenerife
+3802804,Martinez,38,Santa Cruz de Tenerife,38028,Puerto de la Cruz,"28??? 25' 05""","-16??? 32' 29""",Tenerife
+3803101,El Socorro,38,Santa Cruz de Tenerife,38031,Los Realejos,"28??? 23' 39""","-16??? 36' 24""",Tenerife
+3803302,Charco Azul,38,Santa Cruz de Tenerife,38033,San Andres y Sauces,"28??? 48' 33""","-17??? 45' 46""",Tenerife
+3803401,Las Aguas,38,Santa Cruz de Tenerife,38034,San Juan de la Rambla,"28??? 23' 43""","-16??? 38' 22""",Tenerife
+3803605,San Sebastian,38,Santa Cruz de Tenerife,38036,San Sebastian de la Gomera,"28??? 05' 29""","-17??? 06' 47""",Tenerife
+3803801,La Nea,38,Santa Cruz de Tenerife,38032,El Rosario,"28??? 24' 14""","-16??? 19' 06""",Tenerife
+3803806,Las Teresitas,38,Santa Cruz de Tenerife,38038,Santa Cruz de Tenerife,"28??? 30' 31""","-16??? 11' 11""",Tenerife
+3804004,La Arena,38,Santa Cruz de Tenerife,38040,Santiago del Teide,"28??? 13' 47""","-16??? 50' 28""",Tenerife
+3804101,La Garanona,38,Santa Cruz de Tenerife,38041,El Sauzal,"28??? 29' 18""","-16??? 25' 58""",Tenerife
+3804203,El Gomero,38,Santa Cruz de Tenerife,38042,Los Silos,"28??? 22' 37""","-16??? 48' 07""",Tenerife
+3804302,La Arena/Mesa del Mar,38,Santa Cruz de Tenerife,38043,Tacoronte,"28??? 30' 55""","-16??? 25' 27""",Tenerife
+3804502,Puerto de Tazacorte,38,Santa Cruz de Tenerife,38045,Tazacorte,"28??? 38' 51""","-17??? 56' 41""",Tenerife
+3804803,El Tamaduste,38,Santa Cruz de Tenerife,38048,Valverde,"27??? 49' 26""","-17??? 53' 44""",Tenerife
+3804902,Valle Gran Rey,38,Santa Cruz de Tenerife,38049,Valle Gran Rey,"28??? 05' 08""","-17??? 20' 24""",Tenerife
+3805004,Vallehermoso,38,Santa Cruz de Tenerife,38050,Vallehermoso,"28??? 12' 11""","-17??? 15' 08""",Tenerife
+3900101,Luana-Cobreces,39,Cantabria,39001,Alfoz de Lloredo,"43??? 23' 44""","-04??? 13' 10""",Cantabria
+3900602,La Arena,39,Cantabria,39006,Arnuero,"43??? 30' 15""","-03??? 34' 32""",Cantabria
+3901102,Cuberris,39,Cantabria,39011,Bareyo,"43??? 29' 53""","-03??? 36' 49""",Cantabria
+3902002,Orinon,39,Cantabria,39020,Castro-Urdiales,"43??? 24' 09""","-03??? 19' 23""",Cantabria
+3902004,Ostende,39,Cantabria,39020,Castro-Urdiales,"43??? 23' 16""","-03??? 13' 27""",Cantabria
+3902401,Comillas,39,Cantabria,39024,Comillas,"43??? 23' 27""","-04??? 17' 10""",Cantabria
+3903502,La Salve,39,Cantabria,39035,Laredo,"43??? 25' 10""","-03??? 26' 12""",Cantabria
+3904401,Cuchia-Marzan,39,Cantabria,39044,Miengo,"43??? 26' 13""","-04??? 01' 47""",Cantabria
+3904405,Mogro-Usil,39,Cantabria,39044,Miengo,"43??? 26' 20""","-03??? 58' 17""",Cantabria
+3904701,Ris,39,Cantabria,39047,Noja,"43??? 29' 35""","-03??? 31' 53""",Cantabria
+3905201,Valdearenas,39,Cantabria,39052,Pielagos,"43??? 26' 57""","-03??? 58' 49""",Cantabria
+3906102,Somo-Loredo,39,Cantabria,39061,Ribamonton al Mar,"43??? 27' 30""","-03??? 44' 33""",Cantabria
+3907302,San Juan de la Canal,39,Cantabria,39073,Santa Cruz de Bezana,"43??? 28' 29""","-03??? 53' 31""",Cantabria
+3907506,Sardinero,39,Cantabria,39075,Santander,"43??? 28' 36""","-03??? 47' 00""",Cantabria
+3907511,La Magdalena,39,Cantabria,39075,Santander,"43??? 28' 04""","-03??? 46' 31""",Cantabria
+3907902,San Martin,39,Cantabria,39079,Santo??a,"43??? 26' 27""","-03??? 26' 42""",Cantabria
+3908004,El Sable de Meron,39,Cantabria,39080,San Vicente de la Barquera,"43??? 23' 38""","-04??? 22' 00""",Cantabria
+3908503,La Concha,39,Cantabria,39085,Suances,"43??? 26' 10""","-04??? 02' 23""",Cantabria
+3909101,Oyambre,39,Cantabria,39091,Valdaliga,"43??? 23' 37""","-04??? 19' 55""",Cantabria
+3909504,Amio,39,Cantabria,39095,Val de San Vicente,"43??? 23' 45""","-04??? 28' 52""",Cantabria
+4301202,Altafulla,43,Tarragona,43012,Altafulla,"41??? 08' 03""","1??? 22' 25""",Catalunya
+4301313,L'Alguer,43,Tarragona,43013,L'Ametlla de Mar,"40??? 53' 08""","0??? 48' 22""",Catalunya
+4301401,Els Eucaliptus,43,Tarragona,43014,Amposta,"40??? 39' 32""","0??? 47' 12""",Catalunya
+4303703,Calafell,43,Tarragona,43037,Calafell,"41??? 11' 19""","1??? 34' 34""",Catalunya
+4303804,Prat d'en Fores i Regueral,43,Tarragona,43038,Cambrils,"41??? 04' 04""","1??? 04' 13""",Catalunya
+4303806,Vilafortuny-L'Esquirol,43,Tarragona,43038,Cambrils,"41??? 04' 20""","1??? 06' 15""",Catalunya
+4305001,Creixell,43,Tarragona,43050,Creixell,"41??? 09' 26""","1??? 26' 19""",Catalunya
+4305101,Cunit,43,Tarragona,43051,Cunit,"41??? 11' 40""","1??? 37' 59""",Catalunya
+4309201,Peixerota,43,Tarragona,43092,Mont-roig del Camp,"41??? 03' 01""","1??? 00' 48""",Catalunya
+4309211,Cristall,43,Tarragona,43092,Mont-roig del Camp,"41??? 00' 13""","0??? 56' 26""",Catalunya
+4313105,Roda de Bara,43,Tarragona,43131,Roda de Bera,"41??? 10' 05""","1??? 28' 14""",Catalunya
+4313601,El Garbi,43,Tarragona,43136,Sant Carles de la Rapita,"40??? 36' 57""","0??? 35' 39""",Catalunya
+4314802,L'Arrabassada,43,Tarragona,43148,Tarragona,"41??? 07' 15""","1??? 16' 37""",Catalunya
+4314808,La Mora,43,Tarragona,43148,Tarragona,"41??? 07' 44""","1??? 20' 50""",Catalunya
+4315302,Barrio Maritimo/La Paella,43,Tarragona,43153,Torredembarra,"41??? 08' 42""","1??? 24' 50""",Catalunya
+4316203,L'Arenal,43,Tarragona,43162,Vandellos i l'Hospitalet de l'Infant,"40??? 59' 16""","0??? 54' 54""",Catalunya
+4316303,Coma Ruga,43,Tarragona,43163,El Vendrell,"41??? 10' 52""","1??? 31' 27""",Catalunya
+4317101,La Pineda,43,Tarragona,43171,Vila-seca,"41??? 05' 19""","1??? 11' 32""",Catalunya
+4390103,Riomar,43,Tarragona,43901,Deltebre,"40??? 43' 45""","0??? 50' 23""",Catalunya
+4390502,Llevant,43,Tarragona,43905,Salou,"41??? 04' 32""","1??? 08' 25""",Catalunya
+4390602,Cap Roig,43,Tarragona,43906,L'Ampolla,"40??? 49' 16""","0??? 43' 54""",Catalunya
+4390606,D'Avellaners,43,Tarragona,43906,L'Ampolla,"40??? 48' 45""","0??? 42' 52""",Catalunya
+4601301,El Port / Saplaya,46,Valencia,46013,Alboraya,"39??? 30' 35""","-00??? 19' 12""",Valencia
+4604801,Bellreguard,46,Valencia,46048,Bellreguard,"38??? 58' 03""","-00??? 07' 50""",Valencia
+4608201,Raco de Mar,46,Valencia,46082,Canet d'En Berenguer,"39??? 41' 05""","-00??? 12' 04""",Valencia
+4610502,El Dossel,46,Valencia,46105,Cullera,"39??? 11' 55""","-00??? 13' 40""",Valencia
+4610506,El Raco,46,Valencia,46105,Cullera,"39??? 10' 58""","-00??? 13' 17""",Valencia
+4610507,Sant Antoni,46,Valencia,46105,Cullera,"39??? 09' 37""","-00??? 14' 22""",Valencia
+4611302,Daimus,46,Valencia,46113,Daimus,"38??? 58' 43""","-00??? 08' 28""",Valencia
+4613102,Norte de Gandia,46,Valencia,46131,Gandia,"39??? 00' 47""","-00??? 09' 19""",Valencia
+4614301,Xeraco,46,Valencia,46143,Xeraco,"39??? 03' 36""","-00??? 11' 36""",Valencia
+4618102,Pau-Pi,46,Valencia,46181,Oliva,"38??? 55' 48""","-00??? 05' 25""",Valencia
+4618103,L'Aigua Blanca,46,Valencia,46181,Oliva,"38??? 55' 16""","-00??? 04' 48""",Valencia
+4619501,Piles,46,Valencia,46195,Piles,"38??? 57' 07""","-00??? 06' 52""",Valencia
+4619901,La Pobla de Farnals,46,Valencia,46199,la Pobla de Farnals,"39??? 33' 28""","-00??? 17' 18""",Valencia
+4622001,Corint / Malvarrosa,46,Valencia,46220,Sagunto/Sagunt,"39??? 42' 33""","-00??? 11' 37""",Valencia
+4622003,Port de Sagunt / Sagunt,46,Valencia,46220,Sagunto/Sagunt,"39??? 39' 31""","-00??? 12' 32""",Valencia
+4623505,Mareny Blau,46,Valencia,46235,Sueca,"39??? 13' 45""","-00??? 14' 43""",Valencia
+4623801,Tavernes,46,Valencia,46238,Tavernes de la Valldigna,"39??? 05' 50""","-00??? 13' 02""",Valencia
+4625001,Playa de Levante / Malvarrosa,46,Valencia,46250,Valencia,"39??? 28' 20""","-00??? 19' 19""",Valencia
+4625004,La Devesa,46,Valencia,46250,Valencia,"39??? 20' 22""","-00??? 18' 19""",Valencia
+4801401,Muriola- La Cantera,48,Bizkaia,48014,Barrika,"43??? 24' 52""","-02??? 56' 45""",Euskadi
+4802802,Ea,48,Bizkaia,48028,Ea,"43??? 23' 16""","-02??? 34' 55""",Euskadi
+4804301,Gorlitz-Gorliz,48,Bizkaia,48043,Gorliz,"43??? 25' 52""","-02??? 56' 37""",Euskadi
+4804401,Azkorri-Gorrondatxe,48,Bizkaia,48044,Getxo,"43??? 22' 86""","-03??? 00' 59""",Euskadi
+4804402,Barinatxe-Salvaje,48,Bizkaia,48044,Getxo,"43??? 23' 06""","-03??? 00' 16""",Euskadi
+4804801,Laida,48,Bizkaia,48048,Ibarrangelu,"43??? 24' 23""","-02??? 41' 34""",Euskadi
+4804802,Laga,48,Bizkaia,48048,Ibarrangelu,"43??? 24' 38""","-02??? 39' 24""",Euskadi
+4804901,Ogeia-Ispaster,48,Bizkaia,48049,Ispaster,"43??? 22' 28""","-02??? 32' 35""",Euskadi
+4805601,Armintxekoalde,48,Bizkaia,48056,Lemoiz,"43??? 26' 08""","-02??? 54' 03""",Euskadi
+4805701,Isuntza,48,Bizkaia,48057,Lekeitio,"43??? 21' 45""","-02??? 30' 01""",Euskadi
+4806302,Karraspio,48,Bizkaia,48063,Mendexa,"43??? 21' 13""","-02??? 31' 12""",Euskadi
+4806801,Laidatxu,48,Bizkaia,48068,Mundaka,"43??? 24' 23""","-02??? 41' 12""",Euskadi
+4807101,Muskiz-La Arena,48,Bizkaia,48071,Muskiz,"43??? 21' 04""","-03??? 06' 57""",Euskadi
+4807301,Arrigorri,48,Bizkaia,48073,Ondarroa,"43??? 19' 28""","-02??? 25' 01""",Euskadi
+4807602,Tona,48,Bizkaia,48076,Sukarrieta,"43??? 23' 49""","-02??? 41' 34""",Euskadi
+4807603,San Antonio De Abina,48,Bizkaia,48021,Busturia,"43??? 23' 49""","-02??? 41' 37""",Euskadi
+4807701,Plentzia-Plencia,48,Bizkaia,48077,Plentzia,"43??? 24' 49""","-02??? 56' 45""",Euskadi
+4808502,Atxabiribil-Arrietara,48,Bizkaia,48085,Sopela,"43??? 23' 24""","-02??? 59' 43""",Euskadi
+5100104,Benitez,51,Ceuta,51001,Ceuta,"35??? 53' 39""","-05??? 20' 12""",Ceuta
+5100108,La Ribera - El Chorrillo,51,Ceuta,51001,Ceuta,"35??? 53' 13""","-05??? 19' 12""",Ceuta
+5200103,El Hipodromo,52,Melilla,52001,Melilla,"35??? 17' 04""","-02??? 56' 19""",Melilla
